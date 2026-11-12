@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Private Party Markers Contributors",
+    "Name": "Private Party Markers",
+    "InternalName": "PrivatePartyMarkers",
+    "AssemblyVersion": "0.0.1.0",
+    "TestingAssemblyVersion": null,
+    "Description": "Draws private, local-only floor dots beneath yourself and manually selected party teammates, with a 16-color preset palette. It does not alter game markers or upload data.",
+    "Punchline": "Local-only dots beneath yourself and selected party teammates.",
+    "RepoUrl": "https://github.com/chefiffer/PrivatePartyMarkers",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "party",
+      "overlay",
+      "accessibility",
+      "local"
+    ],
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794509806,
+    "DownloadLinkInstall": "https://github.com/chefiffer/PrivatePartyMarkers/releases/download/v0.0.1/PrivatePartyMarkers-0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/chefiffer/PrivatePartyMarkers/releases/download/v0.0.1/PrivatePartyMarkers-0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/chefiffer/PrivatePartyMarkers/releases/download/v0.0.1/PrivatePartyMarkers-0.0.1.zip"
+  }
+]
