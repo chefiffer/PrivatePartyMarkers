@@ -1,6 +1,6 @@
 # Private Party Markers
 
-[English](README.md) | **简体中文**
+[English](README.md) | **简体中文** | [繁體中文](README.zh-TW.md) | [한국어](README.ko-KR.md) | [Русский](README.ru-RU.md) | [Português (Brasil)](README.pt-BR.md) | [Español](README.es-ES.md) | [ไทย](README.th-TH.md) | [Tiếng Việt](README.vi-VN.md) | [日本語](README.ja-JP.md) | [Deutsch](README.de-DE.md) | [Français](README.fr-FR.md)
 
 Private Party Markers 是一个 Dalamud 插件，可在自己和手动选择的小队成员脚下绘制仅本机可见的小圆点。
 
